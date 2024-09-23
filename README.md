@@ -1,2 +1,2 @@
-# primer-repositorio
-primer repositorio de practica para empezar a usar git huib
+# ejercicioConcursoDeTortas
+Repositorio creado para la entrega del ejercicio; Concurso de Tortas - (Curso programacion web)
